@@ -1,4 +1,6 @@
 # Testing Printf(Beginner)
+
+```c
  #include <stdio.h>
   int main()
 {
@@ -18,3 +20,4 @@
     printf("%d%E\n",d,e);
     return 0;
 }
+```
